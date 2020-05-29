@@ -6,7 +6,7 @@
 
 #### 点度中心性
 
-![img](https://bkimg.cdn.bcebos.com/formula/926a843d4f5e23433ce0e0b1cc2c7283.svg)
+![926a843d4f5e23433ce0e0b1cc2c7283](926a843d4f5e23433ce0e0b1cc2c7283.svg)
 
 #### 接近中心性
 
